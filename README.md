@@ -6,7 +6,7 @@ I'm a software developer from Spain. I'm currently studying a degree in Computer
 
 - **Languages**: I'm proficient in C++ and Python, and I have experience with JavaScript, HTML, and CSS.
 - **Tools**: I have experience with Git, Docker, and Linux, and I'm familiar with the use of IDEs like Visual Studio Code.
-- **Networking**: I have knowledge of networking concepts and subnetting, and I'm familiar with the use of tools like TailScale.
+- **Networking**: I have knowledge of networking concepts and subnetting, and I'm familiar with the use of tools like Tailscale.
 - **Virtualization**: I have experience with virtualization software like Proxmox, managing virtual machines and containers.
 
 ## Projects
