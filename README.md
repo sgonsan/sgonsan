@@ -34,6 +34,6 @@ I'm a software developer from Spain. I'm currently studying a degree in Computer
 
 ## Support
 
-If you like my work and want to support me, you can buy me a coffee! ☕️
+If you like my work and want to support me, you can buy me a monster! ☕️
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sgonsan)
