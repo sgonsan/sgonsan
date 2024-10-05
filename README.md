@@ -1,40 +1,84 @@
-# Hello World! I'm Sergio González Sánchez👋
+# 💫 About Me:
 
-I'm a software developer from Spain. I'm currently studying a degree in Computer Engineering at the University of La Laguna. I'm passionate about technology and programming, and I love learning new things. I'm always looking for new challenges and opportunities to grow my skills
+👨‍💻 I'm a computer engineering student at the University of La Laguna, Spain.  
+🚀 I mainly work with C++ and Python, but I've also done projects using HTML, CSS, and JavaScript.  
+🎯 I'm passionate about learning new technologies and always looking for opportunities to grow and take on new challenges.
 
-## Skills
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- **Languages**: I'm proficient in C++ and Python, and I have experience with JavaScript, HTML, and CSS.
-- **Tools**: I have experience with Git, Docker, and Linux, and I'm familiar with the use of IDEs like Visual Studio Code.
-- **Networking**: I have knowledge of networking concepts and subnetting, and I'm familiar with the use of tools like Tailscale.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7cxd925H) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sergio.gonzalez.03) 
+
+## 🔭 I’m currently working on
+
+- **[Wake](https://github.com/sgonsan/Wake-On-Lan_Manager)**: A simple C++ tool to manage and send Wake-on-LAN (WOL) packets to devices on your network.
+- **[Random Access Machine](https://github.com/sgonsan/RAM)**: An implementation of a Random Access Machine (RAM) in C++.
+- **[WIP]**: Ongoing projects that I'm developing.
+
+## 👯 I’m looking to collaborate on
+
+- Open-source projects involving C++, Python, or web technologies (JavaScript, HTML, CSS).
+- Projects related to networking or virtualization tools.
+
+## 🤝 I’m looking for help with
+
+- Improving my skills in full-stack development and cloud computing.
+- Enhancing the functionality and user experience of my current projects.
+
+## 🌱 I’m currently learning
+
+- Advanced C++ techniques, Docker, and modern web frameworks like React or Vue.js.
+- Proxmox and virtualization technologies for server management.
+
+## 💬 Ask me about
+
+- C++, Python, or networking concepts.
+- Virtualization, Docker, or managing Linux systems.
+
+## ⚡ Fun fact
+
+- I enjoy building automation scripts and tools to streamline my workflow.
+
+# Skills
+
+- **Tools**: I have experience with Git, Docker, and Linux, and I'm familiar with IDEs like Visual Studio Code.
+- **Networking**: I have knowledge of networking concepts and subnetting, and I'm familiar with tools like Tailscale.
 - **Virtualization**: I have experience with virtualization software like Proxmox, managing virtual machines and containers.
 
-## Projects
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sgonsan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sgonsan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgonsan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **[Wake](https://github.com/sgonsan/Wake-On-Lan_Manager)**: A simple C++ tool to manage and send Wake-on-LAN (WOL) packets to devices on your network. It allows you to register MAC addresses of your devices, save them in a local database, and wake them up when you need to, using the `wake` command-line tool. This project uses the `wakeonlan` utility to send WOL packets on Linux systems and the `nlohmann/json` library for JSON handling in C++.
-- **[Random Access Machine](https://github.com/sgonsan/RAM)**: An implementation of a Random Access Machine (RAM) in C++. The RAM is a theoretical computer that can be used to model the execution of algorithms. The RAM has a set of registers, a memory, a program counter, and an instruction set. The RAM is capable of executing instructions in a sequential order and can perform basic arithmetic operations.
-- **[WIP]** 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sgonsan&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-## Contact
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-- **Email**:Let's get in touch! You can reach me at [Gmail](mailto:Losestancos2003@gmail.com).
-- **Discord**: You can find me on Discord as `sgonsan#9666`. Feel free to send me a friend request or a message!
-- **Instagram**: You can follow me on Instagram at [@sergio.gonzalez.03](https://www.instagram.com/sergio.gonzalez.03/).
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sgonsan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Stats
+---
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgonsan&show_icons=true&theme=dark)
+[![](https://visitcount.itsvg.in/api?id=sgonsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Languages
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sgonsan) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgonsan&layout=compact&theme=dark)
-
-## Visitors
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=sgonsan.sgonsan)
-
-## Support
-
-If you like my work and want to support me, you can buy me a monster! ☕️
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sgonsan)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
