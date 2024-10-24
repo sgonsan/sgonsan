@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👨‍💻 I'm a computer engineering student at the University of La Laguna, Spain.  
-🚀 I mainly work with C++ and Python, but I've also done projects using HTML, CSS, and JavaScript.  
+🚀 I mainly work with C++, but I've also done projects using HTML, CSS, and JavaScript.  
 🎯 I'm passionate about learning new technologies and always looking for opportunities to grow and take on new challenges.
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
