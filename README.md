@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sgonsan.sgonsan&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
 # 💫 About Me:
 
 👨‍💻 I'm a computer engineering student at the University of La Laguna, Spain.  
