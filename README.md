@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/sergio-gonsan/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/SgCtWcEqt3">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://instagram.com/sergio.gonzalez.03">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
@@ -44,9 +41,8 @@
 
 <h2>🎮 Fun Projects & Activities</h2>
 <ul>
-  <li>🕹️ Developing a simple game engine in C++.</li>
-  <li>🤖 Experimenting with AI and neural networks for game AI.</li>
-  <li>📡 Exploring home automation with Raspberry Pi and Home Assistant.</li>
+  <li>🎵 I am a music producer and artist. You can find me as BTX MTV</li>
+  <li>🎮 I recently repaired my New Nintendo 2DS and love playing it again.</li>
 </ul>
 
 <h2>🎵 Know Me!</h2>
@@ -62,10 +58,3 @@
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
 </div>
-
-<h2>📅 Fun Facts</h2>
-<ul>
-  <li>🖥️ I built my own Linux-based server for cloud storage and media streaming.</li>
-  <li>💾 I love retro computing and have restored several vintage computers.</li>
-  <li>🚀 My dream is to contribute to open-source projects that help developers worldwide.</li>
-</ul>
